@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Post;
-use App\Http\Requests;
+use App\Http\Requests\PostRequest;
 
 class AdminPostsController extends Controller
 {
